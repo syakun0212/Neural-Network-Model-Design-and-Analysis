@@ -1,6 +1,6 @@
 # Neural-Network-Model-Design-and-Analysis
 
-This Project aims to Design and Analyse a Neural Network model using injection molding dataset. 
+This Project aims to Design and Analyse a Neural Network model using the injection molding dataset. 
 
 It consists of 4 parts:
 
